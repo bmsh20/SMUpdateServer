@@ -1,3 +1,6 @@
+## Supporting Me Vocals v1.11
+- Removed AWB file (this time for real)
+
 ## Supporting Me Vocals v1.1
 - Removed AWB file
 - Packed both music tracks into a single ACB (+250 MB obtained)
