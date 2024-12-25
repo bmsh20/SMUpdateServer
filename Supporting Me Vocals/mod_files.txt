@@ -1,3 +1,6 @@
-add /raw/sound/resident_sound/bgm_miller.acb
-delete /raw/sound/resident_sound/bgm_miller.awb
+add /legacy/raw/sound/resident_sound/bgm_miller.acb
+add /mix_game/raw/sound/resident_sound/bgm_miller.acb
+add /mix_release/raw/sound/resident_sound/bgm_miller.acb
+delete /raw/sound/resident_sound/bgm_miller.acb
+add config.json
 add mod.ini
