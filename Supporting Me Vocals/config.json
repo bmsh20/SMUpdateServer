@@ -1,0 +1,41 @@
+{
+  "Groups": [
+    {
+      "Name": "main",
+      "DisplayName": "Options",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Soundtrack Mix",
+          "Description": ["Pick your preferred mix for Supporting Me"],
+          "Type": "SoundtrackEnums",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "mix_game"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "SoundtrackEnums": [
+      {
+        "DisplayName": "OST Game Mix",
+        "value": "mix_game",
+        "Description": ["OST mix that remains faithful to the in-game mix."]
+      },
+      {
+        "DisplayName": "OST Release Mix",
+        "value": "mix_release",
+        "Description": ["Raw OST version with minimal adjustments."]
+      },
+      {
+        "DisplayName": "Legacy",
+        "value": "legacy",
+        "Description": [
+          "Legacy vocal mix that I created for the initial mod release. Use this if you prefer the old version (has louder vocals)."
+        ]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
