@@ -1,3 +1,8 @@
+## Supporting Me Vocals v1.2
+- Now includes new mixes from the official soundtrack release.
+- Choose between 3 mixes: OST Game Mix, OST Release Mix, Legacy. (Read Description)
+- Default option is set to OST Game Mix.
+
 ## Supporting Me Vocals v1.11
 - Removed AWB file (this time for real)
 
